@@ -9,3 +9,5 @@
 - Capítulo 3 - Exercícios: 
   - Funções; 
 
+- Capítulo 5 - Exercícios: 
+  - Condicionais e recursividade;
