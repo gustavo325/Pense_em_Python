@@ -2,12 +2,13 @@
 
 #### **Essa lista de exercícios está sendo resolvida durante a minha fase inicial de aprendizagem na linguagem de programação Python.**
 
-#### Resolução de exercícios do livro **Pense em Python, pense como um cientista da computação.**
+#### Resolução de alguns exercícios do livro **Pense em Python, pense como um cientista da computação.**
 
-- Capítulo 2 - Exercícios: 
+- Capítulo 2: 
   - Variáveis, expressões e instruções;
-- Capítulo 3 - Exercícios: 
+- Capítulo 3: 
   - Funções; 
-
-- Capítulo 5 - Exercícios: 
+- Capítulo 5: 
   - Condicionais e recursividade;
+- Capítulo 6: 
+  - Funções com resultado;
