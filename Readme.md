@@ -12,3 +12,7 @@
   - Condicionais e recursividade;
 - Capítulo 6: 
   - Funções com resultado;
+- Capítulo 7: 
+  - Iteração; 
+- Capítulo 8: 
+  - Strings;
