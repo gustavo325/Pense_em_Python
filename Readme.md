@@ -16,3 +16,5 @@
   - Iteração; 
 - Capítulo 8: 
   - Strings;
+- Capítulo 10: 
+  - Listas; 
