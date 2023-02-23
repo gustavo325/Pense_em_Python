@@ -18,3 +18,5 @@
   - Strings;
 - Capítulo 10: 
   - Listas; 
+- Capítulo 11: 
+  - Dicionários; 
