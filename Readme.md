@@ -4,19 +4,12 @@
 
 #### Resolução de alguns exercícios do livro **Pense em Python, pense como um cientista da computação.**
 
-- Capítulo 2: 
-  - Variáveis, expressões e instruções;
-- Capítulo 3: 
-  - Funções; 
-- Capítulo 5: 
-  - Condicionais e recursividade;
-- Capítulo 6: 
-  - Funções com resultado;
-- Capítulo 7: 
-  - Iteração; 
-- Capítulo 8: 
-  - Strings;
-- Capítulo 10: 
-  - Listas; 
-- Capítulo 11: 
-  - Dicionários; 
+- **Capítulo 2:** Variáveis, expressões e instruções;
+- **Capítulo 3:** Funções; 
+- **Capítulo 5:** Condicionais e recursividade;
+- **Capítulo 6:** Funções com resultado;
+- **Capítulo 7:** Iteração; 
+- **Capítulo 8:** Strings;
+- **Capítulo 10:** Listas; 
+- **Capítulo 11:** Dicionários; 
+- **Capítulo 12:** Tuplas;
