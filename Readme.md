@@ -13,3 +13,4 @@
 - **Capítulo 10:** Listas; 
 - **Capítulo 11:** Dicionários; 
 - **Capítulo 12:** Tuplas;
+- **Capítulo 14:** Arquivos;  
